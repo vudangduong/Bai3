@@ -1,7 +1,7 @@
 const initialState = [
-      { id: 1, text: 'Learn React'},
-      { id: 2, text: 'Learn Redux'},
-      { id: 3, text: 'Build something fun!' }
+      { id: 1, text: 'Dương 1'},
+      { id: 2, text: 'Dương 2'},
+      { id: 3, text: 'Dương 3' }
     ]
   
   export default function todosReducer(state = initialState, action) {

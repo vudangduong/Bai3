@@ -27,7 +27,7 @@ export default function NewTodo() {
                   onChange={handleInputChange} value={text}/>
               </div>
               <div className="mx-sm-3 mb-2">
-              <button type="button" className="btn btn-primary" onClick={handleSubmit}>Add</button>
+              <button type="button" className="btn btn-primary" onClick={handleSubmit}>Thêm</button>
               </div>
             </div>
         <hr/>
